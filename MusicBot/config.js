@@ -1,19 +1,19 @@
 module.exports = {
-TOKEN: "",
-ownerID: [""], //write your discord user id. example: ["id"] or ["id1","id2"]
+TOKEN: "MTExNjYyNTMyMjE5MjkzMjk1Ng.G-ntiz.B1dqOOIEoBfolxHxtsvntZ9icxuwW0zkrryFxI",
+ownerID: ["938297601726509126"], //write your discord user id. example: ["id"] or ["id1","id2"]
 botInvite: "", //write your discord bot invite.
 supportServer: "", //write your discord bot support server invite.
 mongodbURL: "", //write your mongodb url.
-status: '❤️ codeshare.me',
+status: '❤️ jawSy',
 commandsDir: './commands', //Please don't touch
-language: "en", //en, tr, nl, pt, fr, ar, zh_TW, it, ja
+language: "tr", //en, tr, nl, pt, fr, ar, zh_TW, it, ja
 embedColor: "ffa954", //hex color code
 errorLog: "", //write your discord error log channel id.
 
 
 sponsor: {
 status: true, //true or false
-url: "https://awmbilisim.com", //write your discord sponsor url.
+url: "https://youtube.com/jawSVLR", //write your discord sponsor url.
 },
 
 voteManager: { //optional
